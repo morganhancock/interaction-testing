@@ -1369,8 +1369,8 @@
 #u144 {
   border-width:0px;
   position:absolute;
-  left:65px;
-  top:661px;
+  left:873px;
+  top:652px;
   width:32px;
   height:45px;
   display:flex;
@@ -1405,8 +1405,8 @@
 #u145 {
   border-width:0px;
   position:absolute;
-  left:17px;
-  top:661px;
+  left:825px;
+  top:652px;
   width:32px;
   height:45px;
   display:flex;
@@ -1441,8 +1441,8 @@
 #u146 {
   border-width:0px;
   position:absolute;
-  left:65px;
-  top:725px;
+  left:873px;
+  top:716px;
   width:32px;
   height:45px;
   display:flex;
@@ -1477,8 +1477,8 @@
 #u147 {
   border-width:0px;
   position:absolute;
-  left:17px;
-  top:725px;
+  left:825px;
+  top:716px;
   width:32px;
   height:45px;
   display:flex;
@@ -1576,8 +1576,8 @@
 #u150 {
   border-width:0px;
   position:absolute;
-  left:65px;
-  top:789px;
+  left:873px;
+  top:780px;
   width:32px;
   height:45px;
   display:flex;
@@ -1612,8 +1612,8 @@
 #u151 {
   border-width:0px;
   position:absolute;
-  left:17px;
-  top:789px;
+  left:825px;
+  top:780px;
   width:32px;
   height:45px;
   display:flex;
@@ -2241,4 +2241,76 @@
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
+}
+#u173_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:259px;
+  height:60px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border-radius:0px;
+  filter:drop-shadow(none);
+  transition:none;
+}
+#u173 {
+  border-width:0px;
+  position:absolute;
+  left:17px;
+  top:716px;
+  width:259px;
+  height:60px;
+  display:flex;
+  transition:none;
+  transform-origin:50% 50%;
+}
+#u173 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u173_text {
+  border-width:0px;
+  white-space:nowrap;
+  text-transform:none;
+}
+#u174_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:612px;
+  height:15px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border-radius:0px;
+  filter:drop-shadow(none);
+  transition:none;
+}
+#u174 {
+  border-width:0px;
+  position:absolute;
+  left:17px;
+  top:801px;
+  width:612px;
+  height:15px;
+  display:flex;
+  transition:none;
+  transform-origin:50% 50%;
+}
+#u174 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u174_text {
+  border-width:0px;
+  white-space:nowrap;
+  text-transform:none;
 }
